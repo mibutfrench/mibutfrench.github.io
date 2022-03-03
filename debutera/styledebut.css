@@ -1,4 +1,4 @@
-img{
+img {
     width: 100%;
       height: auto;
 }
@@ -13,4 +13,8 @@ h1 {
 }
 background {
     color: #B9EBCD;
+}
+
+p {
+    text-align: center;
 }

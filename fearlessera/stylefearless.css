@@ -4,6 +4,13 @@ img {
 }
 h1 {
     text-align: center;
+ }
+
+#year {
+    text-align: center;
+    color: #CEB43F
+}   
+    
 }
 #ybwm {
     text-align: center;

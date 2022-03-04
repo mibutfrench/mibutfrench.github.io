@@ -5,6 +5,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#year {
+    text-align: center;
+    color :#73C1EC;
+}
+
 #wildest {
     text-align: center;
 }

@@ -6,6 +6,10 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-color : #FFECFB;
+}   
+
 #year {
     text-align: center;
     color: #be76b8

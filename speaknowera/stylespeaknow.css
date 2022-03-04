@@ -5,6 +5,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#year {
+    text-align: center;
+    color : #AE23CA
+}
+
 #mine {
     text-align: center;
 }

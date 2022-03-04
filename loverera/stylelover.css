@@ -5,6 +5,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#year {
+    text-align: center;
+    color: #be76b8
+}
+
 #lover {
     text-align: center;
 }

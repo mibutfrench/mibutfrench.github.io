@@ -5,6 +5,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#year {
+    text-align: center;
+    color : #41995D
+}
+
 #oursong {
     text-align: center;
 }

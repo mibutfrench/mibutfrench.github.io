@@ -6,7 +6,11 @@ h1 {
     text-align: center;
 }
 
-background-color : #B9DDCF
+
+
+body {
+    background-color : #B9DDCF
+}
 
 #year {
     text-align: center;

@@ -5,6 +5,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#year {
+    text-align: center;
+    color: #B41B1B
+}
+
 #wangbt {
     text-align: center;
 }
@@ -14,6 +20,10 @@ h1 {
 }
 
 #begin {
+    text-align: center;
+}
+
+#everything {
     text-align: center;
 }
 

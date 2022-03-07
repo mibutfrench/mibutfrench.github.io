@@ -15,18 +15,6 @@ background-color : #FBF0DE
     color: #C3763A
 }
 
-#willow {
-    text-align: center;
-}
-
-#champagne {
-    text-align: center;
-}
-
-#coney {
-    text-align: center;
-}
-
-#evermore {
+#willow, #champagne, #coney, #evermore {
     text-align: center;
 }

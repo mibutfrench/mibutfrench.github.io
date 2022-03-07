@@ -2,7 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
+h1, p {
     text-align: center;
 }
 
@@ -15,26 +15,6 @@ body {
     color : #952DBF
 }
 
-#mine {
-    text-align: center;
-}
-
-#mean {
-    text-align: center;
-}
-
-#story {
-    text-align: center;
-}
-
-#december {
-    text-align: center;
-}
-
-#ours {
-    text-align: center;
-}
-
-p {
+#mine, #mean, #story, #december, #ours {
     text-align: center;
 }

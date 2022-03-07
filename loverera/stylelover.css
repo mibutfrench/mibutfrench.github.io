@@ -2,7 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
+h1, p {
     text-align: center;
 }
 
@@ -15,26 +15,7 @@ body {
     color: #be76b8
 }
 
-#lover {
+#lover, #yntcd, #man, #me, #cornelia {
     text-align: center;
 }
 
-#yntcd {
-    text-align: center;
-}
-
-#man {
-    text-align: center;
-}
-
-#me {
-    text-align: center;
-}
-
-#cornelia {
-    text-align: center;
-}
-
-p {
-    text-align: center;
-}

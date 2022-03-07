@@ -2,7 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
+h1, p {
     text-align: center;
 }
 
@@ -32,6 +32,3 @@ background {
     color: #B9EBCD;
 }
 
-p {
-    text-align: center;
-}

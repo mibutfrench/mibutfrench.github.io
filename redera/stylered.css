@@ -2,7 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
+h1,p {
     text-align: center;
 }
 
@@ -15,33 +15,7 @@ body {
     color: #B41B1B
 }
 
-#wangbt {
+#wangbt, #ikywt, #begin, #everything, #ibytam, #atw {
     text-align: center;
 }
 
-#ikywt {
-    text-align: center;
-}
-
-#begin {
-    text-align: center;
-}
-
-#everything {
-    text-align: center;
-}
-
-#ibytam {
-    text-align: center;
-}
-
-#atw {
-    text-align: center;
-}
-background {
-    color: #ECDFB8
-}
-
-p {
-    text-align: center;
-}

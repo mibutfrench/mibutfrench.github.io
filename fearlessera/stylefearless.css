@@ -2,7 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
+h1, p {
     text-align: center;
  }
 
@@ -15,26 +15,8 @@ body {
     background-color: #F9F4E2
 }   
 
-#ybwm {
+#ybwm, #lovestory, #whitehorse, #chapters {
     text-align: center;
 }
 
-#lovestory {
-    text-align: center;
-}
-
-#chapters {
-    text-align: center;
-}
-
-#whitehorse {
-    text-align: center;
-}
-background {
-    color: #ECDFB8
-}
-
-p {
-    text-align: center;
-}
 

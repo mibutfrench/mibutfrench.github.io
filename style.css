@@ -4,7 +4,15 @@ img {
 }
 h1 {
     text-align: center;
+    font-size: 3em
 }
+h2 {
+    font-size: 2em;
+}
+p {
+    font-size: 1.5em;
+}
+
 #debut { 
     color : #77C38B; 
 }
@@ -31,4 +39,45 @@ h1 {
 }
 #evermore { 
     color : #C3763A; 
+}
+.sommaire_title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-evenly { 
+    justify-content: space-evenly; 
+}
+
+.flex-item {
+    background: rgb(132, 25, 253);
+    padding: 5px;
+    width: auto;
+    height: auto;
+    margin: 5px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    border: #000000 solid;
+  }
+
+.flex-container a{
+    color: white; 
+    text-decoration: none;
+}
+
+.flex-container a:hover{
+    background: rgb(255, 129, 129);
+    color: white; 
+    text-decoration: none;
 }

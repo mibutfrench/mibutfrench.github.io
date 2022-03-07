@@ -2,11 +2,7 @@ img {
     width: 100%;
       height: auto;
 }
-h1 {
-    text-align: center;
-}
-
-h3 {
+h1, p, h3 {
     text-align: center;
 }
 
@@ -19,22 +15,6 @@ body {
     color: #a2a3a3
 }
 
-#cardigan {
-    text-align: center;
-}
-
-#betty {
-    text-align: center;
-}
-
-#exile {
-    text-align: center;
-}
-
-#lakes {
-    text-align: center;
-}
-
-p {
+#cardigan, #betty, #exile, #lakes {
     text-align: center;
 }

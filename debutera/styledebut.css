@@ -15,17 +15,7 @@ body {
     color : #41995D
 }
 
-#oursong {
-    text-align: center;
-}
-#teardrops {
-    text-align: center;
-}
-#picture {
-    text-align: center;
-}
-
-#should {
+#oursong, #teardrops, #picture, #should {
     text-align: center;
 }
 background {

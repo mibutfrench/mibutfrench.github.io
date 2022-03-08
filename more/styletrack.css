@@ -51,3 +51,81 @@ h3 {
 #tolerate {
     color : #C3763A;
 }
+
+.cold {
+    background-color : #77C38B;
+}   
+
+.white {
+    background-color : #CEB43F;
+}   
+
+.dear {
+    background-color : #A970D0;
+}   
+
+.atw {
+    background-color : #B41B1B;
+} 
+
+.ayhtdws {
+    background-color : #73C1EC;
+}   
+
+.delicate {
+    background-color : #000000;
+}   
+
+.archer {
+    background-color : #be76b8;
+}
+
+.mtr {
+    background-color : #a2a3a3;
+}
+
+.tolerate {
+    background-color : #C3763A;
+}
+
+.sommaire_title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-evenly { 
+    justify-content: space-evenly; 
+}
+
+.flex-item {
+    padding: 5px;
+    width: auto;
+    height: auto;
+    margin: 5px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.35em;
+    text-align: center;
+    border: #000000 solid;
+    text-decoration: none;
+  }
+
+.flex-container a{
+    color: white; 
+    text-decoration: none;
+}
+
+.flex-container a:hover{
+    background: #A3A8FC;
+    color: white; 
+    text-decoration: none;
+}

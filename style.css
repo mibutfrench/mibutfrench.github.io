@@ -37,6 +37,35 @@ h2 {
 #evermore { 
     color : #C3763A; 
 }
+
+.debut { 
+    background-color : #77C38B; 
+}
+.fearless { 
+    background-color : #CEB43F; 
+}
+.speaknow { 
+    background-color : #A970D0; 
+}
+.red { 
+    background-color : #B41B1B; 
+}
+.nine { 
+    background-color : #73C1EC; 
+}
+.rep { 
+    background-color : #000000; 
+}
+.lover { 
+    background-color : #be76b8; 
+}
+.folklore { 
+    background-color : #a2a3a3; 
+}
+.evermore { 
+    background-color : #C3763A; 
+}
+
 .sommaire_title {
     text-align: center;
     text-decoration: underline;
@@ -55,7 +84,7 @@ h2 {
 }
 
 .flex-item {
-    background: rgb(132, 25, 253);
+    background: #F9886A;
     padding: 5px;
     width: auto;
     height: auto;

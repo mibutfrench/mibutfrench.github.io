@@ -84,7 +84,6 @@ h2 {
 }
 
 .flex-item {
-    background: #F9886A;
     padding: 5px;
     width: auto;
     height: auto;
@@ -92,7 +91,7 @@ h2 {
     line-height: 50px;
     color: white;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
     border: #000000 solid;
   }

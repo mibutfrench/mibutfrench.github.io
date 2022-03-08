@@ -67,7 +67,6 @@ h2 {
 }
 .suggested { 
     background-color : #6E8EF2;
-    text-decoration: none;
 }
 
 .sommaire_title {
@@ -95,7 +94,7 @@ h2 {
     line-height: 50px;
     color: white;
     font-weight: bold;
-    font-size: 1.25em;
+    font-size: 1.30em;
     text-align: center;
     border: #000000 solid;
     text-decoration: none;

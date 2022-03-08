@@ -98,6 +98,7 @@ h2 {
     font-size: 1.25em;
     text-align: center;
     border: #000000 solid;
+    text-decoration: none;
   }
 
 .flex-container a{

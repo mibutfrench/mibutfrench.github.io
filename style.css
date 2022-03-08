@@ -4,7 +4,8 @@ img {
 }
 h1 {
     text-align: center;
-    font-size: 3em
+    font-size: 3em;
+    font-police: copperlate;
 }
 h2 {
     font-size: 1.5em;

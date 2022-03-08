@@ -110,3 +110,14 @@ h2 {
     color: white; 
     text-decoration: none;
 }
+
+.flex-item b{
+    color: white; 
+    text-decoration: none;
+}
+
+.flex-container b:hover{
+    background: #A3A8FC;
+    color: white; 
+    text-decoration: none;
+}

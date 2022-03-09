@@ -5,12 +5,20 @@ img {
 h1 {
     text-align: center;
     font-family: optima, palatino, georgia;
+    font-size: 3em;
 }
 
 
- p, h3 {
+ p {
     text-align: center;
     font-family: garamond, times new roman;
+    font-size: 1em;
+}
+
+h3 {
+    text-align: center;
+    font-family: garamond, times new roman;
+    font-size: 1.5em;
 }
 
 body {
@@ -21,9 +29,11 @@ body {
     text-align: center;
     color: #a2a3a3;
     font-family: optima, palatino, georgia;
+    font-size: 2em;
 }
 
 #cardigan, #betty, #exile, #lakes {
     text-align: center;
     font-family: garamond, times new roman;
+    font-size: 2em;
 }

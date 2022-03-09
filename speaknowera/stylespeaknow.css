@@ -5,11 +5,13 @@ img {
 h1 {
     text-align: center;
     font-family: optima, palatino, georgia;
+    font-size:3em;
 }
 
 p {
     text-align: center;
     font-family: garamond, times new roman;
+    font-size:1em;
 }
 
 body {
@@ -20,9 +22,11 @@ body {
     text-align: center;
     color : #952DBF;
     font-family: optima, palatino, georgia;
+    font-size:2em;
 }
 
 #mine, #mean, #story, #december, #ours {
     text-align: center;
     font-family: garamond, times new roman;
+    font-size:2em;
 }

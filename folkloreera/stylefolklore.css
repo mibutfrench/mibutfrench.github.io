@@ -6,9 +6,9 @@ h1 {
     text-align: center;
     font-family: optima, palatino, georgia;
 }
-}
 
- p, h3 {
+
+ p, h2, h3 {
     text-align: center;
     font-family: garamond;
 }
@@ -19,7 +19,8 @@ body {
 
 #year {
     text-align: center;
-    color: #a2a3a3
+    color: #a2a3a3;
+    font-family: optima, palatino, georgia;
 }
 
 #cardigan, #betty, #exile, #lakes {

@@ -2,8 +2,14 @@ img {
     width: 100%;
       height: auto;
 }
-h1, p {
+h1 {
     text-align: center;
+    font-family: optima, palatino, georgia;
+}
+
+p {
+    text-align: center;
+    font-family: garamond;
 }
 
 body {

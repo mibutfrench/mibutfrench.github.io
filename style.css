@@ -9,10 +9,13 @@ h1 {
     color: #595A60;
 }
 h2 {
+    text-align: center;
     font-size: 1.5em;
+    font-family: optima, palatino, georgia;
 }
 
 p {
+    text-align: center;
     font-family: garamond;
 }
 

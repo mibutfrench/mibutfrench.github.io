@@ -7,6 +7,10 @@ img {
     height: 250;
 }
 
+body {
+    background: #B6C0FE;
+}
+
 h1, h4, {
     text-align: center;
 }

@@ -19,6 +19,11 @@ p {
     font-size: 1em;
 }
 
+.home {
+    font-family: garamond, times new roman;
+    font-size: 1em;
+}
+
 iframe 
 {
     display: block;

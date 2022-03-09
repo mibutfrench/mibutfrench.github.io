@@ -4,4 +4,16 @@ img {
 }
 h1 {
     text-align: center;
+    font-family: optima, palatino, georgia;
+}
+
+h3 {
+    text-align: center;
+    color: #13B7E3;
+    font-family: optima, palatino, georgia;
+}
+
+p {
+    font-family: garamond
+    color: #13B7E3
 }

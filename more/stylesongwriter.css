@@ -1,6 +1,6 @@
 #banner {
     width: 100%;
-      height: auto;
+    height: auto;
 }
 img {
     width: 100%;
@@ -13,21 +13,24 @@ body {
 
 h1, h4 {
     text-align: center;
+    font-family: optima, palatino, georgia;
 }
 
 p {
     text-align: center;
-    font-family: times;
+    font-family: garamond;
 }
 
 h2 {
     text-align: center;
     text-decoration: underline;
+    font-family: optima, palatino, georgia;
 }
 
 h3 {
     text-align: center;
-    color:#0F2EDFF;
+    color: #0F2EDFF;
+    font-family: optima, palatino, georgia;
 }
 
 iframe 

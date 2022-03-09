@@ -2,8 +2,15 @@ img {
     width: 100%;
       height: auto;
 }
-h1, p, h3 {
+h1 {
     text-align: center;
+    font-family: optima, palatino, georgia;
+}
+}
+
+ p, h3 {
+    text-align: center;
+    font-family: garamond;
 }
 
 body {
@@ -17,4 +24,5 @@ body {
 
 #cardigan, #betty, #exile, #lakes {
     text-align: center;
+    font-family: garamond;
 }

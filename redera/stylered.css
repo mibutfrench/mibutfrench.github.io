@@ -18,7 +18,8 @@ body {
 
 #year {
     text-align: center;
-    color: #B41B1B
+    color: #B41B1B;
+    font-family: optima, palatino, georgia;
 }
 
 #wangbt, #ikywt, #begin, #everything, #ibytam, #atw {

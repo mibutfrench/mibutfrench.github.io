@@ -11,6 +11,10 @@ h2 {
     font-size: 1.5em;
 }
 
+p {
+    font-family: lato thin;
+}
+
 #debut { 
     color : #77C38B; 
 }

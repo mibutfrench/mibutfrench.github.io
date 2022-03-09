@@ -14,7 +14,8 @@ p {
 
 #year {
     text-align: center;
-    color: #CEB43F
+    color: #CEB43F;
+    font-family: optima, palatino, georgia;
 }   
    
 body {

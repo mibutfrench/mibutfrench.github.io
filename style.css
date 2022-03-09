@@ -6,13 +6,14 @@ h1 {
     text-align: center;
     font-size: 3em;
     font-family: optima, palatino, georgia;
+    color: #595A60;
 }
 h2 {
     font-size: 1.5em;
 }
 
 p {
-    font-family: times new roman;
+    font-family: times;
 }
 
 #debut { 

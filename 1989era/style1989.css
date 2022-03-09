@@ -9,16 +9,17 @@ h1 {
 
 p {
     text-align: center;
-    font-family: garamond;
+    font-family: garamond, times new roman;
 }
 
 body {
-background-color : #E3F2FF
+background-color : #E3F2FF;
 } 
 
 #year {
     text-align: center;
     color :#73C1EC;
+    font-family: optima, palatino, georgia;
 }
 
 #wildest, #bad, #shake, #out, #blank, #style {

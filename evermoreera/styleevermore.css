@@ -13,12 +13,13 @@ p {
 }
 
 body {
-background-color : #FBF0DE
+background-color : #FBF0DE;
 }
 
 #year {
     text-align: center;
-    color: #C3763A
+    color: #C3763A;
+    ont-family: optima, palatino, georgia;
 }
 
 #willow, #champagne, #coney, #evermore {

@@ -22,6 +22,7 @@ p {
 .home {
     font-family: garamond, times new roman;
     font-size: 1em;
+    text-align: center;
 }
 
 iframe 
@@ -32,6 +33,7 @@ iframe
 
 h3 {
     text-align: center;
+    font-size: 1.5em;
 }  
 
 #cold {

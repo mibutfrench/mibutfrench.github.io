@@ -9,16 +9,17 @@ h1 {
 
 p {
     text-align: center;
-    font-family: garamond;
+    font-family: garamond, times new roman;
 }
 
 body {
-    background-color : #E0EDE5
+    background-color : #E0EDE5;
 }
 
 #year {
     text-align: center;
-    color : #41995D
+    color : #41995D;
+    font-family: optima, palatino, georgia;
 }
 
 #oursong, #teardrops, #picture, #should {

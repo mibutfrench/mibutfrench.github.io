@@ -47,6 +47,9 @@ p {
 #evermore { 
     color : #C3763A; 
 }
+#midnights { 
+    color : #191970; 
+}
 
 .debut { 
     background-color : #77C38B; 
@@ -74,6 +77,9 @@ p {
 }
 .evermore { 
     background-color : #C3763A; 
+}
+.midnights { 
+    background-color :#191970;
 }
 .suggested { 
     background-color : #6E8EF2;

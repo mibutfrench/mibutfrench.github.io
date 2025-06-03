@@ -50,6 +50,9 @@ p {
 #midnights { 
     color : #191970; 
 }
+#ttpd { 
+    color : #EAE4D5; 
+}
 
 .debut { 
     background-color : #77C38B; 
@@ -82,7 +85,7 @@ p {
     background-color :#191970;
 }
 .ttpd { 
-    background-color :#EFE4D2;
+    background-color :#EAE4D5;
 }
 .suggested { 
     background-color : #6E8EF2;

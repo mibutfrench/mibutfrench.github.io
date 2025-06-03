@@ -1,1 +1,43 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Midnights Era</title>
+  <meta name="description" content="midnights era pictures">
+  <link rel="stylesheet" href="stylemidnights.css">
+  <link rel="icon" type="image/png" href="logo.png" />
+</head>
+<body>
+   <header role="banner">
+      <p><img src="midnightsbanner.jpeg" alt="Bannière"></p>
+    </header>
+  
+   <h1>Midnights era</h1>
+  <h2 id="year">(2022)</h2>
+  
+<p> Stream Taylor Swift's tenth studio album on Spotify : <a href = "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq?si=6BiykispRPqOlr-q4uVfXg">Midnights</a> 
+    <p><img src="midnights1.jpeg" alt="picture 1" </p> 
+    <p><img src="midnights2.jpeg" alt="picture 2" </p> 
+    <p><img src="midnights3.jpeg" alt="picture 3"</p> 
+    <p><img src="midnights4.jpeg" alt="picture 4"</p>    
+    <p><img src="midnights5.jpeg" alt="picture 5"</p> 
+    <p><img src="midnights6.jpeg" alt="picture 6"</p> 
+    <p><img src="midinights7.jpeg" alt="picture 7"</p>    
+    <p><img src="midnights8.jpeg" alt="picture 8"</p> 
+    <p><img src="midnights9.jpeg" alt="picture 9"</p> 
+      
+      
+<h2 id ="antihero">Anti-Hero</h2>
+  
+  <p> Watch Taylor Swift's music video for her song "Anti-Hero" which she directs and in which she stars in. <br> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b1kbLwvqugk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+ <h2 id ="bejeweled">Bejeweled</h2>
+   
+     <p> Watch Taylor Swift's movie clip for her song "Bejeweled" in which her friends, the HAIM sisters stars in, alongside oscar-winner actress, Laura Dern as well as her producer Jack Anthonoff. <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b7QlX3yR2xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+  </p>
+  
+  <p> Click here to come back to <a href="https://mibutfrench.github.io/index.html"> home</a> ! </p>
+  </body>
+</html>

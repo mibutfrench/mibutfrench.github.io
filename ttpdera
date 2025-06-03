@@ -1,21 +1,21 @@
-<!doctype html>
+<!doctype html> 
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Midnights Era</title>
-  <meta name="description" content="midnights era pictures">
-  <link rel="stylesheet" href="stylemidnights.css">
+  <title>The Tortured Poets Department Era</title>
+  <meta name="description" content="ttpd era pictures">
+  <link rel="stylesheet" href="stylettpd.css">
   <link rel="icon" type="image/png" href="logo.png" />
 </head>
 <body>
    <header role="banner">
-      <p><img src="midnightsbanner.jpeg" alt="Bannière"></p>
+      <p><img src="ttpdbanner.jpeg" alt="Bannière"></p>
     </header>
   
-   <h1>Midnights era</h1>
-  <h2 id="year">(2022)</h2>
+   <h1>The Tortured Poets Department era</h1>
+  <h2 id="year">(2024)</h2>
   
-<p> Stream Taylor Swift's tenth studio album on Spotify : <a href = "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq?si=6BiykispRPqOlr-q4uVfXg">Midnights</a> 
+<p> Stream Taylor Swift's eleventh studio album on Spotify : <a href = "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq?si=6BiykispRPqOlr-q4uVfXg">Midnights</a> 
     <p><img src="midnights1.jpeg" alt="picture 1" </p> 
     <p><img src="midnights2.jpeg" alt="picture 2" </p> 
     <p><img src="midnights3.jpeg" alt="picture 3"</p> 
